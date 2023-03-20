@@ -13,7 +13,7 @@
 
 ## Uso do Eval
 
-A função `eval` é utilizada para avaliar a expressão matemática digitada pelo usuário e retornar o resultado. É importante lembrar que o uso de `eval` pode apresentar riscos de segurança em projetos mais complexos, pois permite a execução de código malicioso se a entrada do usuário não for validada ou sanitizada corretamente.
+A função `eval` é utilizada para avaliar a expressão matemática digitada pelo usuário e retornar o resultado.
 
 ## Tecnologias Utilizadas
 
