@@ -1,4 +1,4 @@
-# Calculadora Simples
+# Calculadora JS
 
 🖩 Projeto de uma calculadora simples em JavaScript, utilizando HTML, CSS e Flexbox para a interface e funções básicas de manipulação de eventos e expressões matemáticas em JavaScript.
 
